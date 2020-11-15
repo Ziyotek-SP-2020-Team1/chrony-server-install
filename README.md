@@ -1,1 +1,1 @@
-# chrony-servier-install
+# chrony-server-install
